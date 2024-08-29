@@ -1,0 +1,58 @@
+@charset "ISO-8859-1";
+.logincontainer{
+position: absolute;
+left: 300px;
+top: 90px;
+}
+.containersize
+{
+	height: 400px;
+}
+.adminmastermaster{
+	background-image: url(background-img.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 170%;
+	
+}
+.adminmaster123{
+		background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(adminpage.jpg);
+	  	background-repeat: no-repeat;
+	background-size: 100% 1000%;
+}
+.adminmaster{
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(adminpage.jpg);
+	  	background-repeat: no-repeat;
+	background-size: 100% 500%;
+
+	
+}
+.adminmaster123 ul li a{
+	color:white;
+	font-weight: 900;
+	font-size: 25px;
+}
+ table tr th ,a{
+	color:white;
+	font-weight: 900;
+	font-size: 20px;
+}
+table tr td,a{
+	color:white;
+	font-weight: 500;
+	font-size: 20px;
+}
+.addcontainer{
+	position: absolute;
+	top: 200px;
+	left: 400px;
+	
+}
+.v2{
+	position: relative;
+	left: 300px;
+}
+.position{
+	position: relative;
+	top: 100px;
+}
+

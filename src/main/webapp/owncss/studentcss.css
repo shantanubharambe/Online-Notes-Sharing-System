@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(studentlogin.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 1000%;
+	
+}
+ul li a{
+	color: white;
+	font-size: 25px;
+	font-weight: 900;
+}
+table tr th{
+	color: white;
+	font-size: 22px;
+	font-weight: 700;
+}
+table tr td{
+	color: white;
+	font-size: 20px;
+	font-weight: 500;
+}
+.viewstudent{
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(studentlogin.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 300%;
+}
+.viewstudent2{
+	background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(studentlogin.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 150%;
+}
+.viewstudent2 ul li a{
+	color: white;
+	font-size: 25px;
+	font-weight: 900;
+}
